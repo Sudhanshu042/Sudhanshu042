@@ -72,5 +72,5 @@ I believe in the transformative power of technology to create meaningful solutio
 
 ---
 
-❤️ By Sudhanshu Neravati
+❤️ By Sudhanshu Neravati <br/>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Sudhanshu042)
